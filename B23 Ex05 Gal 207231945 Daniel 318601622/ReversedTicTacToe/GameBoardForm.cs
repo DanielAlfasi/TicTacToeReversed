@@ -23,7 +23,7 @@ namespace ReversedTicTacToe
         private string m_PlayerOneName;
         private string m_PlayerTwoName;
         private eMark m_PlayerTurn;
-        private int m_TurnsCounter;
+        private int m_TurnsCounter = 0;
 
 
         public GameBoardForm()
