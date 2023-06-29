@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\Computer-Science\c#\B23 Ex05 Gal 207231945 Daniel 318601622\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\bin\Debug\ReversedTicTacToe.exe.config
+\\Mac\Home\Desktop\Computer-Science\c#\B23 Ex05 Gal 207231945 Daniel 318601622\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\bin\Debug\ReversedTicTacToe.exe
+\\Mac\Home\Desktop\Computer-Science\c#\B23 Ex05 Gal 207231945 Daniel 318601622\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\bin\Debug\ReversedTicTacToe.pdb
+\\Mac\Home\Desktop\Computer-Science\c#\B23 Ex05 Gal 207231945 Daniel 318601622\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\obj\Debug\ReversedTicTacToe.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Computer-Science\c#\B23 Ex05 Gal 207231945 Daniel 318601622\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\obj\Debug\ReversedTicTacToe.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\Computer-Science\c#\B23 Ex05 Gal 207231945 Daniel 318601622\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\obj\Debug\ReversedTicTacToe.Properties.Resources.resources
+\\Mac\Home\Desktop\Computer-Science\c#\B23 Ex05 Gal 207231945 Daniel 318601622\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\obj\Debug\ReversedTicTacToe.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Computer-Science\c#\B23 Ex05 Gal 207231945 Daniel 318601622\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\obj\Debug\ReversedTicTacToe.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Computer-Science\c#\B23 Ex05 Gal 207231945 Daniel 318601622\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\obj\Debug\ReversedTicTacToe.exe
+\\Mac\Home\Desktop\Computer-Science\c#\B23 Ex05 Gal 207231945 Daniel 318601622\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\obj\Debug\ReversedTicTacToe.pdb
+\\Mac\Home\Desktop\Computer-Science\c#\B23 Ex05 Gal 207231945 Daniel 318601622\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\obj\Debug\ReversedTicTacToe.GameSettingsForm.resources
+\\Mac\Home\Desktop\Computer-Science\c#\B23 Ex05 Gal 207231945 Daniel 318601622\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\bin\Debug\Ex02.dll
+\\Mac\Home\Desktop\Computer-Science\c#\B23 Ex05 Gal 207231945 Daniel 318601622\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\bin\Debug\Ex02.pdb
+\\Mac\Home\Desktop\Computer-Science\c#\B23 Ex05 Gal 207231945 Daniel 318601622\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\bin\Debug\Ex02.dll.config
+\\Mac\Home\Desktop\Computer-Science\c#\B23 Ex05 Gal 207231945 Daniel 318601622\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\obj\Debug\ReversedTicTacToe.GameBoardForm.resources
+\\Mac\Home\Desktop\Computer-Science\c#\B23 Ex05 Gal 207231945 Daniel 318601622\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\obj\Debug\ReversedTicTacToe.csproj.CopyComplete

@@ -2,8 +2,8 @@
 {
     public static class Game
     {
-        private const int k_MaxSizeForBoard = 9;
-        private const int k_MinSizeForBoard = 3;
+        private const int k_MaxSizeForBoard = 10;
+        private const int k_MinSizeForBoard = 4;
         private const int k_NumberOfPlayers = 2;
 
         public static int NumberOfPlayers
