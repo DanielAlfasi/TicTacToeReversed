@@ -147,12 +147,20 @@ namespace ReversedTicTacToe
 
         private void gameEndWithTie()
         {
-
+            DialogResult result = MessageBox.Show("Tie!\n Would you like to play another round?", "A Tie!", MessageBoxButtons.YesNo);
+            if (result == DialogResult.Yes)
+            {
+                gameEngine.ResetGame(); // update another round
+            }
+            else
+            {
+                this.Close();
+            }
         }
 
         private void gameEndWithWinner()
         {
-
+            // messege box
         }
     }
 }

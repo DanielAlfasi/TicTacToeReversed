@@ -14,3 +14,19 @@
 \\Mac\Home\Desktop\Computer-Science\c#\B23 Ex05 Gal 207231945 Daniel 318601622\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\bin\Debug\Ex02.dll.config
 \\Mac\Home\Desktop\Computer-Science\c#\B23 Ex05 Gal 207231945 Daniel 318601622\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\obj\Debug\ReversedTicTacToe.GameBoardForm.resources
 \\Mac\Home\Desktop\Computer-Science\c#\B23 Ex05 Gal 207231945 Daniel 318601622\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\obj\Debug\ReversedTicTacToe.csproj.CopyComplete
+C:\Users\97254\Desktop\c#\tictactoereversed\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\obj\Debug\ReversedTicTacToe.csproj.AssemblyReference.cache
+C:\Users\97254\Desktop\c#\tictactoereversed\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\obj\Debug\ReversedTicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\97254\Desktop\c#\tictactoereversed\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\obj\Debug\ReversedTicTacToe.GameBoardForm.resources
+C:\Users\97254\Desktop\c#\tictactoereversed\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\obj\Debug\ReversedTicTacToe.GameSettingsForm.resources
+C:\Users\97254\Desktop\c#\tictactoereversed\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\obj\Debug\ReversedTicTacToe.Properties.Resources.resources
+C:\Users\97254\Desktop\c#\tictactoereversed\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\obj\Debug\ReversedTicTacToe.csproj.GenerateResource.cache
+C:\Users\97254\Desktop\c#\tictactoereversed\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\obj\Debug\ReversedTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\97254\Desktop\c#\tictactoereversed\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\obj\Debug\ReversedTicTacToe.exe
+C:\Users\97254\Desktop\c#\tictactoereversed\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\obj\Debug\ReversedTicTacToe.pdb
+C:\Users\97254\Desktop\c#\tictactoereversed\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\bin\Debug\ReversedTicTacToe.exe.config
+C:\Users\97254\Desktop\c#\tictactoereversed\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\bin\Debug\ReversedTicTacToe.exe
+C:\Users\97254\Desktop\c#\tictactoereversed\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\bin\Debug\ReversedTicTacToe.pdb
+C:\Users\97254\Desktop\c#\tictactoereversed\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\bin\Debug\Ex02.dll
+C:\Users\97254\Desktop\c#\tictactoereversed\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\bin\Debug\Ex02.pdb
+C:\Users\97254\Desktop\c#\tictactoereversed\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\bin\Debug\Ex02.dll.config
+C:\Users\97254\Desktop\c#\tictactoereversed\B23 Ex05 Gal 207231945 Daniel 318601622\ReversedTicTacToe\obj\Debug\ReversedTicTacToe.csproj.CopyComplete

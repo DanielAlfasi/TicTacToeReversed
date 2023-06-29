@@ -49,7 +49,6 @@
     <Compile Include="ButtonCell.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="ePlayerTurn.cs" />
     <Compile Include="GameBoardForm.cs">
       <SubType>Form</SubType>
     </Compile>
