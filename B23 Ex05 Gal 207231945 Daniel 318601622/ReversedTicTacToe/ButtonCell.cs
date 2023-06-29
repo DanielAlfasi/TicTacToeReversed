@@ -28,7 +28,8 @@ namespace ReversedTicTacToe
         public eMark Mark
         { 
             get { return this.m_Mark; } 
-            set { 
+            set 
+            { 
                 this.m_Mark = value;
                 this.Text = value.ToString();
             }

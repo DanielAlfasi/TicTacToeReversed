@@ -125,6 +125,7 @@ namespace ReversedTicTacToe
 
 
                 gameEngine.PerformMove(clickedButton.RowIndex, clickedButton.ColumnIndex);
+                checkGameStatus();
 
             }
         }
